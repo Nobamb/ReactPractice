@@ -1,0 +1,61 @@
+*{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+.App {
+
+  background-color: #111;
+  height: 2000px;
+  width: 100%;
+}
+
+
+
+ul{
+
+  list-style: none;
+
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+
+}
+
+
+img{
+
+  vertical-align: bottom;
+
+}
+
+
+
+
+
+header {
+
+  width: 100%;
+  height: 100px;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+
+
+header nav{
+  overflow: hidden;
+  margin-right: 80px;
+  width: 400px;
+  height: 70px;
+
+}
